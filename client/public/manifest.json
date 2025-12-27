@@ -1,0 +1,17 @@
+{
+  "name": "HowTo - Learn & Shop",
+  "short_name": "HowTo",
+  "description": "Learn, Shop & Discover with Expert Guides",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

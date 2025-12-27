@@ -1,0 +1,35 @@
+Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+hydration-error-info.ts:72 Error fetching elderly users: Error: Failed to fetch family relationships: 401
+    at fetchElderlyUsers (ElderlyUserGrid.tsx:48:17)
+console.error @ hydration-error-info.ts:72Understand this error
+2socket.ts:52 Connected to WebSocket server
+dashboard-queries.ts:60 Dashboard overview: Invalid or empty response from server
+queryFn @ dashboard-queries.ts:60Understand this warning
+hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 310ms
+socket.ts:52 Connected to WebSocket server
+hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 359ms
+2hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 159ms
+2hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 585ms
+services.tsx:54 Connected to service WebSocket
+services.tsx:95  GET http://localhost:3010/api/family/relationships 404 (Not Found)
+fetchElderlyUser @ services.tsx:95
+eval @ services.tsx:110
+commitHookEffectListMount @ react-dom.development.js:23189
+commitPassiveMountOnFiber @ react-dom.development.js:24965
+commitPassiveMountEffects_complete @ react-dom.development.js:24930
+commitPassiveMountEffects_begin @ react-dom.development.js:24917
+commitPassiveMountEffects @ react-dom.development.js:24905
+flushPassiveEffectsImpl @ react-dom.development.js:27078
+flushPassiveEffects @ react-dom.development.js:27023
+eval @ react-dom.development.js:26808
+workLoop @ scheduler.development.js:266
+flushWork @ scheduler.development.js:239
+performWorkUntilDeadline @ scheduler.development.js:533Understand this error
+2hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 169ms
+hot-reloader-client.ts:274 [Fast Refresh] rebuilding
+hot-reloader-client.ts:238 [Fast Refresh] done in 155ms
